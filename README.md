@@ -1,4 +1,19 @@
 # calculator
+A progammed calculator using c.First project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #define _USE_MATH_DEFINES
 #define MAX_ROWS 10
 #define MAX_COLS 10
